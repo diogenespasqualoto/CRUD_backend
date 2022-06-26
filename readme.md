@@ -1,0 +1,9 @@
+- criar o banco de dados 
+- criar com npm init
+- criar o server.js
+- crair a conexão com o banco
+- criar o arquivo de rotas
+- criar a rota raiz
+- criar o model
+- criar o controller
+- continar com rotas e controller
